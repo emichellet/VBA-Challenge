@@ -19,6 +19,6 @@ Following the two VBA scripts are the 4 screenshots of the excel sheets followin
   This project wanted us to look at the Stock Market throughout a set period of time and how each publicly traded stock fluctuated in price,
   along with the volume of buyers and sellers trading the stock, which therefore impacted the market capitalization/stock value. 
   
-  
-  In short, 
+If the volume was high and the price at the end of the year was lower in comparison to the beginning of the year, that indicates more sellers/more people selling stock within time period. 
+If the volume was high and the price at the end of the year was higer in comparison to the beginnning of the year, that indicates more buyers/more people buying stock wtihin that time period.
   
